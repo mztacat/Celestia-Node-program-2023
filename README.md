@@ -18,6 +18,8 @@ Participating in the Light Node Challenge in May 2023 was a distinctive experien
 
 For a detailed breakdown of my performance analysis for the Celestia Light Node, explore [this comprehensive report](https://medium.com/@mztacat/performance-analysis-for-celestia-light-node-by-mztacat-62a85752266d). This analysis delves into the intricacies of my contributions, providing valuable insights into the node's efficiency and effectiveness.
 
+**Amount of Celestia Received:** 10,750 Celestia
+
 ## Light Node Monitoring Tool
 
 To complement the analysis, I've developed a [Light Node Monitoring Tool](https://github.com/mztacat/Celestia-Light-Node-Monitiring-Tool) available in this repository. This tool enhances the monitoring capabilities, offering a valuable resource for anyone keen on optimizing Celestia light nodes.
